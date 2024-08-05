@@ -1,5 +1,3 @@
-content = """
-
 # Fetch Rewards Data Engineering Take Home
 
 # ETL_AWS_SQS_to_PSQL
